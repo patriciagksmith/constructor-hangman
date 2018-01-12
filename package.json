@@ -1,0 +1,23 @@
+{
+  "name": "Hangman",
+  "version": "1.0.0",
+  "description": "constructor hangman homework",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.3",
+    "prompt": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciagksmith/constructor-hangman.git"
+  },
+  "author": "Patty Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciagksmith/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/patriciagksmith/constructor-hangman#readme"
+}
